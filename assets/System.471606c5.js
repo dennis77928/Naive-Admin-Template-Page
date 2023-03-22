@@ -1,1 +1,0 @@
-import{_ as t,o,d as c,e as n,w as a,i as r}from"./index.3604c107.js";import{N as s}from"./headers.05bdd8da.js";const _={};function l(d,f){const e=s;return o(),c("div",null,[n(e,null,{default:a(()=>[r("\u7CFB\u7D71\u72C0\u614B")]),_:1})])}const p=t(_,[["render",l]]);export{p as default};
